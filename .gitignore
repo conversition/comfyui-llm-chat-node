@@ -1,0 +1,24 @@
+# 本地配置与密钥(不上传)
+LPF_config.json
+.claude/
+CLAUDE.md
+*CLAUDE*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 运行产物
+*.log
+*.tmp
+
+# 上游 CI(非二次开发内容)
+.github/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+# 本地数据文件(不纳入仓库)
+file/

@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# @author  : sakizuki
+# @time    : 2026-06-25
+# @function: LLM Direct Chat — 三模式合一（Direct / NewBie / Anima）
+# @version : v2.0
