@@ -22,3 +22,4 @@ venv/
 Thumbs.db
 # 本地数据文件(不纳入仓库)
 file/
+ComfyUI-OpenCode-Go/config.json
